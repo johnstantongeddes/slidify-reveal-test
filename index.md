@@ -3,7 +3,7 @@ title       : Slidify with reveal.js
 subtitle    : 
 author      : John Stanton-Geddes
 framework   : revealjs
-revealjs:   {theme: default, transition: linear, center: "true"}
+revealjs:   {theme: simple, transition: linear, center: "true"}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
